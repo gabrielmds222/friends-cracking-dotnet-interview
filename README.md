@@ -25,7 +25,7 @@ Através desta aplicação, você treinará a escrita de código limpo, com test
 - MySQL/SQL Server/PostgreSQL
 
 ## 💯 Critérios Analisados
-- Requisitos atendidos;
+- Requisitos funcionais atendidos;
 - Código Limpo
 - Conteinerização
 - Documentação Interativa
