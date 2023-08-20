@@ -1,0 +1,13 @@
+Usuario: {
+    id,
+    nome,
+    email,
+    senha,
+}
+
+Post: {
+    id,
+    nomeAutor,
+    data,
+    titulo
+}
