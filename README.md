@@ -1,7 +1,7 @@
-# Cracking the .NET interview
+# Cracking the NestJs interview
 
 ## 📚 Descrição
-Olá, este repositório se trata de um desafio técnico proposto para amigos que estão se dedicando ao estudo de back-end com dotnet.
+Olá, este repositório se trata de um desafio técnico proposto para amigos que estão se dedicando ao estudo de back-end com nestjs.
 
 ## ✏️ Objetivo
 O objetivo geral é construir uma restful api com operações simples de um blog, isto é:
