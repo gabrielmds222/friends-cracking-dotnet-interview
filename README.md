@@ -14,13 +14,11 @@ O objetivo geral é construir uma restful api com operações simples de um blog
 Através desta aplicação, você treinará a escrita de código limpo, com testes automatizados, em um ambiente controlado e seguro usando conteinerização. 
 
 ## 💻 Tecnologias
-- .NET
-- ASP NET Core
+- NestJS
 - Docker
 - Swagger
-- XUnit
-- Fluent Assertions
-- Moq
+- Jest
+- Sinon.js
 - Redis
 - MySQL/SQL Server/PostgreSQL
 
